@@ -2,5 +2,5 @@ function isOdd(myNumber)
 {
 	return !(myNumber % 2 == 0);
 }
-
-// Your code below:
+var a = isOdd(45345)
+console.log(a);
